@@ -1,0 +1,18 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #3c7a35;
+}
+
+img {
+    width:650px;
+    border:1px solid black;
+}
+
+table {
+    border: medium solid #000000;
+    width: 50%;
+    }
+    td, th {
+    border: thin solid #6495ed;
+    width: 50%;
+}
