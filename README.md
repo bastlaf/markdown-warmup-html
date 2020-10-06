@@ -1,4 +1,4 @@
-<h1>Bastien</h1>>
+<h1>Bastien</h1>
 
 <p><i>Derrière les nuages se cachent toujours le soleil</i></p>
 
@@ -15,9 +15,9 @@
 |               | More green      |                   |                       | 
 
 <h3>mes hobbys : </h3>
-<ul>La photographie</ul>
-<ul>la nature</ul>
-<ul>la mythologie grecque</ul>
+<ol>La photographie</ol>
+<ol>la nature</ol>
+<ol>la mythologie grecque</ol>
 
 
 <h3>You can always count on me when you're alone or if you want to laugh</h3>
