@@ -7,6 +7,21 @@
 
 <h2>Je m'appelle Bastien, j'ai 25ans, et je suis en formation de developpement web.</h2>
 
+<table>
+    <tr>
+        <td><strong>Birthday</td>
+        <td>favourite color</td>
+        <td>favourite food</td>
+        <td>pinneapple on pizza ?</strong></td>
+    </tr>
+    <tr>
+        <td>07/06/1995</td>
+        <td>green</td>
+        <td>Hachis-parmentier</td>
+        <td>NO</td>
+    </tr>
+</table>
+
 
 | Birthday      | favourite color | favourite food    | pinneapple on pizza ? | 
 | ------------- |:---------------:| --------------:   | --------------------- | 
@@ -15,9 +30,11 @@
 |               | More green      |                   |                       | 
 
 <h3>mes hobbys : </h3>
-<ol>La photographie</ol>
-<ol>la nature</ol>
-<ol>la mythologie grecque</ol>
+<ol>
+    <li>la photographie</li>
+    <li>la nature</li>
+    <li>la mythologie grecque</li>
+</ol>
 
 
 <h3>You can always count on me when you're alone or if you want to laugh</h3>
