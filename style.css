@@ -1,18 +1,31 @@
+body {
+    text-align: center;
+    background-color: #E6E6FA;
+}
+
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #3c7a35;
+    text-shadow: 2px 2px 2px black;
 }
 
 img {
-    width:650px;
-    border:1px solid black;
+    border:15px solid black;
 }
 
 table {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    margin : auto;
     border: medium solid #000000;
     width: 50%;
     }
     td, th {
+    text-align: center;
     border: thin solid #6495ed;
     width: 50%;
 }
+
+h2 {
+    font-family : "Comic Sans MS", cursive, sans-serif;
+}
+
